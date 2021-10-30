@@ -11,7 +11,6 @@
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/net5.0/PackageDependencyFinder.dll",
             "args": [
-                "D:\\Repos\\ServiceProfiler4\\src\\ServiceProfiler.EventPipe\\ServiceProfiler.EventPipe.Client\\ServiceProfiler.EventPipe.Client.csproj"
             ],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
